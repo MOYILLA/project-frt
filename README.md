@@ -7,7 +7,7 @@ This is a web based application developed for health related  website in india
 
 
 **Project Link** - https://thankful-sand-06049b200.3.azurestaticapps.net/
-**Project demo vedio link**-
+**Project demo vedio link**-https://youtu.be/sifb-EJMH40
 ## AZURE technologies used for project
 
 -Static web apps
