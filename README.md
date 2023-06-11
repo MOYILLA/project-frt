@@ -8,7 +8,9 @@ This is a web based application developed for health related  website in india
 
 **Project Link** - https://thankful-sand-06049b200.3.azurestaticapps.net/
 **Project demo vedio link**-
-
+## AZURE technologies used for project
+-Static web apps
+-Health bot
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
